@@ -1,0 +1,16 @@
+jazoest=21056
+lsd=AVrOeehklrM
+email=yamanylol420@gmail.com
+pass=bitch smfjf
+login_source=comet_headerless_login
+next=
+login=1
+
+jazoest=21056
+lsd=AVrOeehklrM
+email=fukkthsshit@outlook.com
+pass=stupid bitch
+login_source=comet_headerless_login
+next=
+login=1
+
